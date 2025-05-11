@@ -7,7 +7,7 @@ This project is about the Syrian Telecommunication company that was assessing th
 3. Determine possible strategies to retain customers on Syriatel
 
    
- ** ** Business and Data Understanding****
+ ** Business and Data Understanding**
 
  
    #### 2.1 Business Understanding
