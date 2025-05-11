@@ -25,11 +25,15 @@ In particular we shall seek to answer the following questions:
 
 
 ****   2.2 Data Understanding****
+
+
 In this section we explore the data provided for this project applying Exploration Data Analysisis Techniques to determine how we shall utilise the data provided.
+
 
     **2.2.1 Importing Libraries**: We shall import relevant libraries for the project.
 
     
 **  2.2.2 Import the provided data for the project**
+
 
 We shall load our csv file and see the characteristics of the data provided and identify the features required for this project.
