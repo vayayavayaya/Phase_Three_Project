@@ -73,3 +73,5 @@ In this section we shall present the performance of the models in determining cu
 
 **5.0 Conclusion**
 
+Under this part we shall provide advisory for both technical and none-technical clients.
+
