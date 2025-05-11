@@ -38,6 +38,10 @@ In this section we explore the data provided for this project applying Explorati
 
 
 We shall load our csv file and see the characteristics of the data provided and identify the features required for this project.
+*** 2.3 Data Preparation***
+In this section we shall undertake data preparation to enable us conduct Exploratory Data Analysis and Modelling by;
 
-
+(a). Determine any missing values in the data set
+(b). Identify any duplicated rows and columns
+(c). Identify any irreleant columns that may not be needed to conduct any analysis and therefore they are of no value to us in conducting this modelling for Machine Learning.This will be achieved by dropping such columns.
 
