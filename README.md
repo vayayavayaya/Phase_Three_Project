@@ -49,7 +49,7 @@ In this section we shall undertake data preparation to enable us conduct Explora
 (b). Identify any duplicated rows and columns
 (c). Identify any irreleant columns that may not be needed to conduct any analysis and therefore they are of no value to us in conducting this modelling for Machine Learning.This will be achieved by dropping such columns.
 
-2.4 Conducting Exploratory Data analysis
+**2.4 Conducting Exploratory Data analysis**
 
 In this section we shall explore the data to see the type of data we are dealing with,establish some relationships and visualise the data.Techinques such as:
 1. Checking the data types deployed
@@ -57,4 +57,14 @@ In this section we shall explore the data to see the type of data we are dealing
 3. Describing the stastical measures
 4. Data visualization
 5. Data cleaning etc will be appled
+
+
+**3.0 Modelling**
+We shall deploy two machine learning models to analyse the performance of the model these are;
+(a) Logistic regression model
+(b) Decision tree
+**4.0 Evaluation of Models**
+In this section we shall present the performance of the models in determining customer moving soon or being retained by Syriatel.
+
+**5.0 Conclusion**
 
