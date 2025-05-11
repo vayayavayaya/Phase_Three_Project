@@ -1,2 +1,2 @@
-# Phase_Three_Project
-Phase Three Project 
+Project Overview
+This project is about the Syrian Telecommunication company that was assessing the behaviour of the customers to leave their services and move to another telecommunication company(competitor).This will mean customers will soon stop accessing their services such as calling,sms,etc and switch to another service provider.In this project therefore we will explore the available data to classify the customer into two classifiable predictions as: will soon stop using the telcos services and will retain the services of the the telcos.In the longrun we shall determine which features will contribute to the customer discontinuing(soon) services of Syriatel in favour of another telcomunication company.
