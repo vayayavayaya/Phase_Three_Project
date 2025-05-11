@@ -49,3 +49,12 @@ In this section we shall undertake data preparation to enable us conduct Explora
 (b). Identify any duplicated rows and columns
 (c). Identify any irreleant columns that may not be needed to conduct any analysis and therefore they are of no value to us in conducting this modelling for Machine Learning.This will be achieved by dropping such columns.
 
+2.4 Conducting Exploratory Data analysis
+
+In this section we shall explore the data to see the type of data we are dealing with,establish some relationships and visualise the data.Techinques such as:
+1. Checking the data types deployed
+2. Separating datasets into numeric and categorical data
+3. Describing the stastical measures
+4. Data visualization
+5. Data cleaning etc will be appled
+
