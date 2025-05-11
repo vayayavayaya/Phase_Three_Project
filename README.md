@@ -38,7 +38,11 @@ In this section we explore the data provided for this project applying Explorati
 
 
 We shall load our csv file and see the characteristics of the data provided and identify the features required for this project.
-*** 2.3 Data Preparation***
+
+
+** 2.3 Data Preparation**
+
+
 In this section we shall undertake data preparation to enable us conduct Exploratory Data Analysis and Modelling by;
 
 (a). Determine any missing values in the data set
