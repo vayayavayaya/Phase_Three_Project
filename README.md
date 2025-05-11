@@ -60,10 +60,15 @@ In this section we shall explore the data to see the type of data we are dealing
 
 
 **3.0 Modelling**
+
+
 We shall deploy two machine learning models to analyse the performance of the model these are;
 (a) Logistic regression model
 (b) Decision tree
+
 **4.0 Evaluation of Models**
+
+
 In this section we shall present the performance of the models in determining customer moving soon or being retained by Syriatel.
 
 **5.0 Conclusion**
