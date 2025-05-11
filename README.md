@@ -38,3 +38,6 @@ In this section we explore the data provided for this project applying Explorati
 
 
 We shall load our csv file and see the characteristics of the data provided and identify the features required for this project.
+
+
+
