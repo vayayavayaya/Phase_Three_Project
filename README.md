@@ -10,7 +10,7 @@ This project is about the Syrian Telecommunication company that was assessing th
  ** Business and Data Understanding**
 
  
-   #### 2.1 Business Understanding
+   ### 2.1 Business Understanding
 This project is about assessing why the Syriatel Telecom company is going to loose customers,very soon to anothr service provider within the industry.We shall therefore seek insight on why customers will leave Syriatel or for this matter any company within the industry to cross-over another network.We shall establish the customer trends across various services provided within the network and see what factors will lead the customer abandon the service of one company for the other.
 In particular we shall seek to answer the following questions:
 1. How long does it take the customers to stay with the Syriatel?
@@ -30,7 +30,8 @@ In particular we shall seek to answer the following questions:
 In this section we explore the data provided for this project applying Exploration Data Analysisis Techniques to determine how we shall utilise the data provided.
 
 
-    **2.2.1 Importing Libraries**: We shall import relevant libraries for the project.
+    ***2.2.1 Importing Libraries****: 
+    We shall import relevant libraries for the project.
 
     
 **  2.2.2 Import the provided data for the project**
